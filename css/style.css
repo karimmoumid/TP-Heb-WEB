@@ -206,7 +206,7 @@ header {
 #assistance {
     padding-inline: var(--Panding-margin-inl);
     padding-block: 43px;
-
+    margin-block: 58px;
     .assistance {
         div {
             text-align: center;
@@ -317,7 +317,7 @@ header {
 
 #migrez {
     padding-inline: var(--Panding-margin-inl);
-
+    margin-block: 58px;
     h2 {
         margin-block: 42px;
     }
@@ -328,7 +328,6 @@ header {
 
     img {
         width: 100%;
-        margin-bottom: 58px;
     }
 }
 
